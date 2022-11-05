@@ -1,4 +1,4 @@
 # Insurance Quoter App
 
-
-Auto insurance quote by brand and model.
+Car insurance quotes by brand and model.
+Made with React and Javascript
